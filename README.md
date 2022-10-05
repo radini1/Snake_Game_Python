@@ -1,12 +1,12 @@
 ># Snake game with pygame
-Hello everyone , this is a python snake game using pygame library.
+_Hello everyone , this is a python snake game using pygame library._
 ***
-first of all, you can `pip install pipenv` and then `pipenv install -r requirements.txt`.
+_first of all, you can `pip install pipenv` and then `pipenv install -r requirements.txt`._
 ***
-About PyGame you can study more => [pygame](https://www.pygame.org/wiki/tutorials).
+_About PyGame you can study more => [pygame](https://www.pygame.org/wiki/tutorials)._
 ***
-any question : raadin.dev@gmail.com
+_any question_ : raadin.dev@gmail.com
 ***
-Hope you like :heart: 
+_Hope you like_ :heart: 
 ***
-Thanks for being a very good teacher :pray:
+Thanks for being a very good teacher :pray: [codebasics](https://github.com/codebasics)
