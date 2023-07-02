@@ -1,6 +1,8 @@
 ># Snake game with pygame
 _Hello everyone , this is a python snake game using pygame library._
 ***
+![alt text](https://github.com/radini1/Snake_Game_Python/blob/main/s_pic.png)
+***
 _first of all, you can `pip install pipenv` and then `pipenv install -r requirements.txt`._
 ***
 _At the end you can make it an exe file if you want. => [exe](https://pypi.org/project/auto-py-to-exe/)_
